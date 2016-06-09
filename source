@@ -1,0 +1,17 @@
+{
+   "repository":{
+      "name":"name",
+      "maintainer":"devteam, "      website":"website",
+      "description":"description.",
+      "icon":"icon link",
+      "packages":[
+         {
+            "id":"domain.name.appname",
+            "name":"appname",
+            "version":"n/a",
+            "author":"authorhere",
+            "description":"descriptionhere",
+            "info":"info",
+            "link":"itms-services://?action=download-manifest&url=plisturldownload",
+            "icon":"appiconlink"
+         },
